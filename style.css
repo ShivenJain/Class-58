@@ -85,3 +85,12 @@ p{
 .links:hover {
     background-color: chartreuse;
 }
+html {
+    scroll-behavior: smooth;
+}
+a {
+    text-decoration: none;
+}
+.article:hover {
+    color: cyan;
+}
